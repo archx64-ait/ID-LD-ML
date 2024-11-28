@@ -1,1 +1,2 @@
-cic-collection.parquet
+*.parquet
+project-env/
